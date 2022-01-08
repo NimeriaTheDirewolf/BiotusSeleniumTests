@@ -20,7 +20,7 @@ namespace BiotusSeleniumTests
         }
         public void Dispose()
         {
-           _driver.Quit();
+           //_driver.Quit();
         }
     }
 }
